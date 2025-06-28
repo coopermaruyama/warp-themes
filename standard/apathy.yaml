@@ -1,0 +1,26 @@
+name: Apathy
+accent: "#C792EA"      # Apathy's bright purple accent
+cursor: "#FFCB6B"      # Apathy's yellow-ish cursor tone
+background: "#0E0B13"  # dark purple background from theme base
+foreground: "#E0E0E0"  # Light grey foreground
+details: darker        # Dark overall theme
+
+terminal_colors:
+  normal:
+    black:   "#2A273F"
+    red:     "#F07178"
+    green:   "#C3E88D"
+    yellow:  "#FFCB6B"
+    blue:    "#82AAFF"
+    magenta: "#C792EA"
+    cyan:    "#89DDFF"
+    white:   "#ECEFF4"
+  bright:
+    black:   "#3B3853"
+    red:     "#FF5370"
+    green:   "#C3E88D"
+    yellow:  "#FFCB6B"
+    blue:    "#82AAFF"
+    magenta: "#C792EA"
+    cyan:    "#89DDFF"
+    white:   "#FFFFFF"
